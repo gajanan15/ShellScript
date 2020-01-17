@@ -1,0 +1,1002 @@
+ 1139  java coupons.java
+ 1140  java Coupons.java
+ 1141  java toBinary.java
+ 1142  java toBinaryy.java
+ 1143  java Vending.java
+ 1144  java prime.java
+ 1145  java primefactors.java
+ 1146  java main.java
+ 1147  java main1.java
+ 1148  java main2.java
+ 1149  java Stringreplace.java
+ 1150  java GFG.java
+ 1151  java sqrt.java
+ 1152  java Stopwatch.java
+ 1153  java elapsedTime.java
+ 1154  java gambler.java
+ 1155  git init
+ 1156  git add .
+ 1157  git commit -m 'Week1'
+ 1158  git remote add origin https://github.com/Adamya11/week1.git
+ 1159  git push origin master
+ 1160  java power.java
+ 1161  45
+ 1162  java power.java
+ 1163  12
+ 1164  java power.java
+ 1165  java power.java 12
+ 1166  java Gamblerr.java
+ 1167  java Coupons.java
+ 1168  java Zero.java
+ 1169  java z\ero.java
+ 1170  java zero.java
+ 1171  java array.java
+ 1172  java rray.java
+ 1173  java Array.java
+ 1174  java Stopwatch.java
+ 1175  java Nibbles.java
+ 1176  java Stack.java
+ 1177  [2~
+ 1178  java Stack.java
+ 1179  java Stackk.java
+ 1180  java Stackk.java
+ 1181  java Stackk.java
+ 1182  java Stackk.java
+ 1183  java Stackk.java
+ 1184  java LinkedList.java
+ 1185  java Linkedexample.java
+ 1186  java LinkedList.java
+ 1187  java LinkedListt.java
+ 1188  java LinkedList.java
+ 1189  java Stack.java
+ 1190  java Stacky.java
+ 1191  java Linkedexample.java
+ 1192  java Linkedexample.java
+ 1193  java LinkedList.java
+ 1194  java UnorderedList.java
+ 1195  java Unordered.java
+ 1196  java Testing.java
+ 1197  java Unordered.java
+ 1198  java bank.java
+ 1199  java Bank.java
+ 1200  java Bank.java
+ 1201  11111
+ 1202  java Bank.java
+ 1203  java Palindrome.java
+ 1204  maDaaam
+ 1205  java Palindrome.java
+ 1206  java Ordered.java
+ 1207  java OrderedList.java
+ 1208  java Ordered.java
+ 1209  java Palindrome.java
+ 1210  java BinarySearchTree.java
+ 1211  java Hashing.java
+ 1212  java HashSlot.java
+ 1213  java Hashslot.java
+ 1214  java Hashing.java
+ 1215  java Hashslot.java
+ 1216  java Hashing.java
+ 1217  dir
+ 1218  java Hashing.java
+ 1219  java PrimeAnagram.java
+ 1220  java Prime.java
+ 1221  java StackPrime.java
+ 1222  java Calendar.java 08 11
+ 1223  java Calendar.java 08 19
+ 1224  java StackPrime.java
+ 1225  java PrimeAnagram.java
+ 1226  java Prime.java
+ 1227  java PrimeAnagram.java
+ 1228  java StackPrime.java
+ 1229  java Calendar.java 08 11
+ 1230  git add .
+ 1231  git commit -m 'Week2'
+ 1232  git push origin master
+ 1233  java WriteJSON.java
+ 1234  java Regex.java
+ 1235  clear
+ 1236  java Regex.java
+ 1237  java ReadJSON.java
+ 1238  java ~cp /home/Downloads/json-20190722.jar ReadJSON.java
+ 1239  export CLASSPATH=/home/Downloads/json-20190722.jar ReadJSON.java
+ 1240  export CLASSPATH=/home/Downloads/json-20190722.jar 
+ 1241  java ReadJSON.java
+ 1242  java -cp /home/admin1/Downloads/json-20190722.jar ReadJSON.java
+ 1243  java -cp /home/admin1/Downloads/json-simple-1.1.1.jar ReadJSON.java
+ 1244  java -cp /home/admin1/Downloads/json-simple-1.1.1.jar writeJSON.java
+ 1245  java -cp /home/admin1/Downloads/json-simple-1.1.1.jar WriteJSON.java
+ 1246  java -cp /home/admin1/Downloads/json-simple-1.1.1.jar ReadJSON.java
+ 1247  java -cp /home/admin1/Downloads/json-simple-1.1.1.jar ReadJSON.javajava -cp /home/admin1/Downloads/json-simple-1.1.1.jar ReadJSON.javajava -cp /home/admin1/Downloads/json-simple-1.1.1.jar ReadJSON.javajava -cp /home/admin1/Downloads/json-simple-1.1.1.jar ReadJSON.javaclear
+ 1248  java -cp /home/admin1/Downloads/json-simple-1.1.1.jar ReadJSON.java
+ 1249  java -cp /home/admin1/Downloads/json-simple-1.1.1.jar WriteJSON.java
+ 1250  javac -Xlint:unchecked WriteJSON.java
+ 1251  java -cp /home/admin1/Downloads/json-simple-1.1.1.jar WriteJSON.java
+ 1252  java -cp /home/admin1/Downloads/json-simple-1.1.1.jar 
+ 1253  java -cp /home/admin1/Downloads/json-simple-1.1.1.jar javac -Xlint:unchecked WriteJSON.java
+ 1254  java -cp /home/admin1/Downloads/json-simple-1.1.1.jar -Xlint:unchecked WriteJSON.java
+ 1255  java -cp /home/admin1/Downloads/json-simple-1.1.1.jar WriteJSON.java
+ 1256  -Xlint:unchecked WriteJSON.java
+ 1257  java -Xlint:unchecked WriteJSON.java
+ 1258  java -cp /home/admin1/Downloads/json-simple-1.1.1.jar WriteJSON.java
+ 1259  java -cp /home/admin1/Downloads/json-simple-1.1.1.jar ReadJSON.java
+ 1260  java -cp /home/admin1/Downloads/json-simple-1.1.1.jar WriteJSON.java
+ 1261  java -cp /home/admin1/Downloads/json-simple-1.1.1.jar ReadJSON.java
+ 1262  java Stock.java
+ 1263  34
+ 1264  java Stock.java
+ 1265  java StockReport.java
+ 1266  java EagerInitializedSingleton.java
+ 1267  java StaticBlockSingleton.java
+ 1268  java LazyInitialization.java
+ 1269  java LazyInitializatioSingleton.java
+ 1270  java LazyInitializationSingleton.java
+ 1271  java LazyInitialization.java
+ 1272  java ThreadSafeSingleton.java
+ 1273  java SingletonHelper.java
+ 1274  java BillPughSingleton.java
+ 1275  java EagerInitializedSingleton.java
+ 1276  java ReflectionSingletonTest.java
+ 1277  javac EagerInitializedSingleton.java
+ 1278  javac EagerInitializedSingleton
+ 1279  javac EagerInitializedSingleton.java
+ 1280  java  EagerInitializedSingleton.java
+ 1281  java ReflectionSingletonTest.java
+ 1282  java  EagerInitializedSingleton.java
+ 1283  java ReflectionSingletonTest.java
+ 1284  java  EagerInitializedSingleton.java
+ 1285  java ReflectionSingletonTest.java
+ 1286  java  EagerInitializedSingleton.java
+ 1287  java ReflectionSingletonTest.java
+ 1288  java  EagerInitializedSingleton.java
+ 1289  java ReflectionSingletonTest.java
+ 1290  javac  EagerInitializedSingleton.java
+ 1291  java ReflectionSingletonTest.java
+ 1292  java SerializedSingleton.java
+ 1293  java SerializedSingleton.java]
+ 1294  java SerializedSingleton.java
+ 1295  java  EagerInitializedSingleton.java
+ 1296  java ReflectionSingletonTest.java
+ 1297  dir
+ 1298  java SerializedSingleton.java
+ 1299  java  EagerInitializedSingleton.java
+ 1300  java ReflectionSingletonTest.java
+ 1301  java TestFactory.java
+ 1302  clear
+ 1303  java TestFactory.java
+ 1304  java PrototypePatternTest.java
+ 1305  java SerializedSingleton.java
+ 1306  java PrototypePatternTest.java
+ 1307  java StockReport.java
+ 1308  clear
+ 1309  java StockAccount.java
+ 1310  java -cp /home/admin1/downloads/json-simple-1.1.1.jar StockAccount.java
+ 1311  java -cp /home/admin1/downloads/json-20190722.jar StockAccount.java
+ 1312  java -cp /home/admin1/Downloads/json-simple-1.1.1.jar StockAccount.java
+ 1313  java AdapterPattern.java
+ 1314  java ProxyPattern.java
+ 1315  java ObserverPattern.java
+ 1316  sudo chmod 777 -R studio.sh
+ 1317  ./studio.sh
+ 1318  sudo chown :$USER /dev/kvm
+ 1319  sudo  apt install qemu-kvm
+ 1320  sudo chown :$USER /dev/kvm
+ 1321  sudo  apt install qemu-kvm.
+ 1322  sudo chown :$USER /dev/kvm
+ 1323  ls -al /dev/kvm
+ 1324  sudo chown :$USER /dev/kvm
+ 1325  ./studio.sh
+ 1326  linuxtechi@kvm-ubuntu18-04:~$ egrep -c '(vmx|svm)' /proc/cpuinfo
+ 1327  ~$ egrep -c '(vmx|svm)' /proc/cpuinfo
+ 1328  sudo apt install cpu-checker
+ 1329  sudo kym-ok
+ 1330  sudo kvm-ok
+ 1331  sudo apt update
+ 1332  sudo apt install qemu qemu-kvm libvirt-bin bridge-utils virt-manager
+ 1333  service libvirt status
+ 1334  sudo service libvirt start
+ 1335  sudo service libvirtd start
+ 1336  sudo update-rc.d libvirtd enable
+ 1337  service libvirtd status
+ 1338  sudo virt-manager
+ 1339  ./studio.sh
+ 1340  sudo chown :$USER /dev/kvm
+ 1341  sudo chmod g+rw /dev/kvm
+ 1342  sudo chown :$USER /dev/kvm
+ 1343  sudo chmod g+rw /dev/kvm
+ 1344  sudo chown :$USER /dev/kvm
+ 1345  ./studio.sh
+ 1346  sudo chown :$USER /dev/kvm
+ 1347  sudo chmod g+rw /dev/kvm
+ 1348  sudo chown :$USER /dev/kvm
+ 1349  sudo chmod g+rw /dev/kvm
+ 1350  sudo chown :$USER /dev/kvm
+ 1351  sudo chmod g+rw /dev/kvm
+ 1352  sudo chown :$USER /dev/kvm
+ 1353  sudo chmod g+rw /dev/kvm
+ 1354  sudo chown :$USER /dev/kvm
+ 1355  sudo chmod g+rw /dev/kvm
+ 1356  lsb_release -1
+ 1357  uname -a
+ 1358  opt
+ 1359  sudo tar -xvzf ~/Downloads/eclipse-jee-2019-03-R-linux-gtk-x86_64.tar.gz
+ 1360  git init
+ 1361  git config --global user.name Ajay
+ 1362  git config --global user.email ajaylodale77@gmail.com
+ 1363  git status 
+ 1364  git add Couponumber.java
+ 1365  git add CouponNumber
+ 1366  git add CouponNumber.java
+ 1367  git status
+ 1368  git commit
+ 1369  status
+ 1370  git add CouponNumber.java
+ 1371  status
+ 1372  git status
+ 1373  git commit
+ 1374  git status
+ 1375  pws
+ 1376  git init
+ 1377  cd..
+ 1378  ~
+ 1379  git init;
+ 1380  git init
+ 1381  ls -lart
+ 1382  git status
+ 1383  node utility.js
+ 1384  sudo apt install nodejs
+ 1385  node utility.js
+ 1386  node addAlternate.js 
+ 1387  utility.insertData(j)
+ 1388  npm i readline-sync
+ 1389  sudo apt install npm
+ 1390  node addAlternate.js 
+ 1391  npm i readline-sync
+ 1392  node addAlternate.js 
+ 1393  node addAlternate.js 
+ 1394  node palindrome.js 
+ 1395  node prime.js
+ 1396  node PrimeAnagram.js 
+ 1397  node PrimeAnagram.js 
+ 1398  node palindrome.js 
+ 1399  node permutation.js 
+ 1400  gfyhrtg
+ 1401  node permutation.js 
+ 1402  node PrimeAnagram.js
+ 1403  git init
+ 1404  git add .
+ 1405  https://github.com/manojmansukh/Bridgelabz.git
+ 1406  git remote add origin https://github.com/manojmansukh/Bridgelabz.git
+ 1407  git push -u origin master
+ 1408  git commit -m "Bootcamp"
+ 1409  git push -u origin master
+ 1410  git remote add origin https://github.com/manojmansukh/Bridgelabz.git
+ 1411  git add *
+ 1412  git init
+ 1413  git add .
+ 1414  configration
+ 1415  config
+ 1416  iconfig
+ 1417  git init
+ 1418  git add .
+ 1419  git commit -m "successfull "
+ 1420  git push -u origin master
+ 1421  git remote add origin git@github.com:manojmansukh/Bridgelabz.git
+ 1422  git push -u origin master
+ 1423  git remote add origin https://github.com/manojmansukh/Bridgelabz.git
+ 1424  git push -u origin master
+ 1425  gedit
+ 1426  ls
+ 1427  ls -r
+ 1428  ./Desktop
+ 1429  ./Desktop:
+ 1430  ls -r
+ 1431  ./Music
+ 1432  ./Music:
+ 1433  ls -al
+ 1434  cat Zero.java
+ 1435  ls -al
+ 1436  cat Vending.java
+ 1437  cat >A1.java
+ 1438  cat A1.java
+ 1439  cat > A1.java
+ 1440  cat A1.java
+ 1441  cat f1.txt
+ 1442  cat > f1.txt
+ 1443  cat f2.txt
+ 1444  cat > f2.txt
+ 1445  CAT f1 f2 >f3
+ 1446  CAT f1.txt f2.txt >f3.txt
+ 1447  cat f1.txt f2.txt >f3.txt
+ 1448  rm f3.txt
+ 1449  cat f1.txt f2.txt >f3.txt
+ 1450  rm f3.txt
+ 1451  mkdir Demo
+ 1452  mkdir /Demo/test
+ 1453  mkdir Demo/test
+ 1454  mkdir Demo/test/Saurabh
+ 1455  mkdir Demo/test1
+ 1456  mkdir Demo/test3
+ 1457  rm  Demo/test3
+ 1458  rmdir  Demo/test3
+ 1459  man Demo
+ 1460  cat LinkedList.java
+ 1461  pr -x LinkedList.java
+ 1462  pr -2 LinkedList.java
+ 1463  pr -n LinkedList.java
+ 1464  ls
+ 1465  cd /Desktop
+ 1466  ls -l
+ 1467  ls
+ 1468  cd bootcamp
+ 1469  ls
+ 1470  cd..
+ 1471  cd\
+ 1472  ls
+ 1473  cd Saurabh\(BootCamp\)/
+ 1474  ls
+ 1475  cd JavaProject/
+ 1476  ls
+ 1477  cd..cd..
+ 1478  cd.
+ 1479  cdcd/
+ 1480  git init
+ 1481  git add .
+ 1482  touch git
+ 1483  git commit -m "BootCam"
+ 1484  git remote add origin https://github.com/saurabhgavali23/BootCamProgram.git
+ 1485  git push -u origin master
+ 1486  /Desktop
+ 1487  ls
+ 1488  git commit -m "BootCam"
+ 1489  git touch
+ 1490  touch git
+ 1491  git commit
+ 1492  git remote add origin https://github.com/saurabhgavali23/BootCamProgram
+ 1493  git push origin master
+ 1494  git remote add origin https://github.com/saurabhgavali23/BootCamProgram.git
+ 1495  exit
+ 1496  cd ~/Desktop
+ 1497  ls
+ 1498  cd ~/Saurabh(BootCamp)
+ 1499  cd Saurabh\(BootCamp\)/
+ 1500  ls
+ 1501  cd JavaProject/
+ 1502  ls
+ 1503  cd src/
+ 1504  ls
+ 1505  cd-
+ 1506  cd..
+ 1507  cd ..
+ 1508  ls
+ 1509  cd src/
+ 1510  ls
+ 1511  git init
+ 1512  git add .
+ 1513  git commit -m "Java Programs"
+ 1514  git remote add origin https://github.com/saurabhgavali23/BootCamCodes.git
+ 1515  git push -u origin master
+ 1516  exit
+ 1517  ~/Desktop
+ 1518  cd ~/Desktop/
+ 1519  ls
+ 1520  cd Saurabh\(BootCamp\)/
+ 1521  ls
+ 1522  cd JavaProject/
+ 1523  ls
+ 1524  cd src
+ 1525  ls
+ 1526  git commit 
+ 1527  git push 
+ 1528  git commit
+ 1529  cd ..
+ 1530  cd src
+ 1531  git commit
+ 1532  git push
+ 1533  git commit -m "TicTacToe"
+ 1534  git commit Test/TicTacToeGame3.java
+ 1535  git commit
+ 1536  git commit -m Test/TicTacToeGame3.java
+ 1537  exit
+ 1538  git add .
+ 1539  git commit -m "21-11-2019"
+ 1540  git push -u origin master
+ 1541  git push --help
+ 1542  git push -u origin master
+ 1543  git add .
+ 1544  git commit -m "23-11-2019
+ 1545  "
+ 1546  git push -u origin master
+ 1547  git pull
+ 1548  git push -u origin master
+ 1549  cd Desktop
+ 1550  mkdir dFile.txt
+ 1551  dFile.txt
+ 1552  cd dFile.txt
+ 1553  git init
+ 1554  git add .
+ 1555  git commit -m "28-11-2019"
+ 1556  git remote add origin https://github.com/saurabhgavali23/FellowshipPrograms.git
+ 1557  git push -u origin master
+ 1558  git add .
+ 1559  git commit -m "28-11-2019"
+ 1560  git push -u origin master
+ 1561  exit
+ 1562  git config --list
+ 1563  git config --global user.name "saurabhgavali23"
+ 1564  git config --global user.email "gavalisaurabh02@gmail.com"
+ 1565  git config --list
+ 1566  remote.origin.url=https://github.com/saurabhgavali23/FellowshipPrograms.git
+ 1567  ~/Desktop/
+ 1568  cd ~/Desktop/
+ 1569  ls
+ 1570  cd Saurabh\(FellowShip\)/
+ 1571  ls
+ 1572  ls -a
+ 1573  cd JavaPrograms/
+ 1574  ls
+ 1575  cd src/
+ 1576  ls
+ 1577  cd Test/
+ 1578  ls
+ 1579  cd ..
+ 1580  ls
+ 1581  ls -a
+ 1582  remote.origin.url=https://github.com/saurabhgavali23/FellowshipPrograms.git
+ 1583  ls
+ 1584  exit
+ 1585  git add .
+ 1586  exit
+ 1587  git config --lis
+ 1588  remote.origin.url=https://github.com/saurabhgavali23/FellowshipPrograms.git
+ 1589  exit
+ 1590  git . add
+ 1591  git add .
+ 1592  git commit -m "2-12-2019"
+ 1593  push -u origin master
+ 1594  git push -u origin master
+ 1595  exit
+ 1596  javac name.java
+ 1597  javac
+ 1598  javac dayofweek.java
+ 1599  javac temperatureConversion.java
+ 1600  git init
+ 1601  git add .
+ 1602  git commit -m "FlipCoin"
+ 1603  git remote https://github.com/Akshadakute123/FellowshipData.git
+ 1604  git remote add https://github.com/Akshadakute123/FellowshipData.git
+ 1605  git remote add origin https://github.com/Akshadakute123/FellowshipData.git
+ 1606  git commit -m "First commit of fellowship programs"
+ 1607  git status
+ 1608  git push -u origin master
+ 1609  git remote add origin https://github.com/Akshadakute123/FellowshipBridgelabz.git
+ 1610  git commit -m "First commit of fellowship programs"
+ 1611  git push -u origin master
+ 1612  git init
+ 1613  git add .
+ 1614  git commit -m "first git hub push"
+ 1615  git remote add origin https://github.com/Akshadakute123/FellowshipBridgelabz.git
+ 1616  git push -u origin master
+ 1617  git init
+ 1618  git clone https://github.com/Akshadakute123/FellowshipBridgelabz.git
+ 1619  git add .
+ 1620  git commit -m "fellowship programs"
+ 1621  git remote add origin /home/admin1/Akshada/Fellowship/bin
+ 1622  git remote add origin https://github.com/Akshadakute123/FellowshipBridgelabz.git
+ 1623  git push -u origin master
+ 1624  git init
+ 1625  git add .
+ 1626  git commit -m "First commit"
+ 1627  git add origin https://github.com/Akshadakute123/FellowshipBridgelabz.git
+ 1628  git add remote origin https://github.com/Akshadakute123/FellowshipBridgelabz.git
+ 1629  git remote add origin https://github.com/Akshadakute123/FellowshipBridgelabz.git
+ 1630  git push -u origin master
+ 1631  git init
+ 1632  git add .
+ 1633  git commit -m "First commit"
+ 1634  git remote add origin https://github.com/Akshadakute123/FellowshipBridgelabz.git
+ 1635  git push -u origin master
+ 1636  git status
+ 1637  git add --all
+ 1638  git commit -m"added various data structure programm"
+ 1639  git push origin master
+ 1640  git init
+ 1641  git add --all
+ 1642  git add .
+ 1643  git commit -m"added various data structure programm"
+ 1644  git remote add origin https://github.com/Akshadakute123/FellowshipBridgelabz.git
+ 1645  git push -u origin master
+ 1646  git remote add origin https://github.com/Akshadakute123/FellowshipBridgelabz.git
+ 1647  git push -u origin master
+ 1648  cd
+ 1649  clear
+ 1650  cd Akshada/
+ 1651  ls
+ 1652  Fellowship/
+ 1653  cd Fellowship/
+ 1654  git status
+ 1655  git add --all\
+ 1656  git add --all
+ 1657  git status
+ 1658  git commit -m"all programs"
+ 1659  git push origin master
+ 1660  git pull
+ 1661  git add --all
+ 1662  git status
+ 1663  git fetch
+ 1664  git merge
+ 1665  git pull origin master
+ 1666  git status
+ 1667  git push origin master
+ 1668  clear
+ 1669  git init
+ 1670  git add --all
+ 1671  git commit -m"programms"
+ 1672  git remote add origin https://github.com/Akshadakute123/BridgelabzFellowshipdata.git
+ 1673  git push origin master
+ 1674  git init
+ 1675  git add .
+ 1676  git commit -m  "added: various data structure programs"
+ 1677  git push origin master
+ 1678  git init
+ 1679  git add .
+ 1680  git commit -m  "added: Binary search tree program in data strucure program and String permutation program in Algorithmic programs"
+ 1681  git push origin master
+ 1682  git add .
+ 1683  git commit -m  "Modified:Utility file and added coupoun number generation function"
+ 1684  git push origin master
+ 1685  git commit -m  "Added:Calender program using stack and using queue"
+ 1686  git push origin master
+ 1687  git add .
+ 1688  git commit -m  "Added:Calender program using stack and using queue"
+ 1689  git push origin master
+ 1690  clear
+ 1691  git clone https://github.com/akashtambe11/Fellowship.git
+ 1692  sudo -H gedit/etc/environment
+ 1693  sudo -H gedit /etc/environment.
+ 1694  git init
+ 1695  git add .
+ 1696  git commit -m "Added: Functional Programs"
+ 1697  git add remote origin https://github.com/akashtambe11/Fellowship.git
+ 1698  git remote add origin https://github.com/akashtambe11/Fellowship.git
+ 1699  git push -u origin master
+ 1700  git init
+ 1701  git add .
+ 1702  git commit -m "Added: Functional Programms"
+ 1703  git remote add origin https://github.com/akashtambe11/Fellowship.git
+ 1704  git push -u origin master
+ 1705  git status
+ 1706  git push -u origin master
+ 1707  /github/fadeInCubes$ cd..
+ 1708  sudo apt-get install git
+ 1709  git config--global user.name "gajanan15"
+ 1710  git config --global user.name "gajanan15"
+ 1711  git config --global user.email "gajanandesai97@gmail.com"
+ 1712  cd
+ 1713  clear
+ 1714  ls
+ 1715  mkdir fellowship
+ 1716  ls
+ 1717  clear
+ 1718  mkdir fellowship
+ 1719  ls
+ 1720  cd fellowship/
+ 1721  ls
+ 1722  echo "# fellowship" >> README.md
+ 1723  ls
+ 1724  README.md it init
+ 1725  git init
+ 1726  git add README.md
+ 1727  git commit -m "first commit"
+ 1728  git remote add origin https://github.com/gajanan15/fellowship.git
+ 1729  git push -u origin master
+ 1730  ls
+ 1731  nano gajanan
+ 1732  git config --global user.name "gajanan15"
+ 1733  exit
+ 1734  git init
+ 1735  git add .
+ 1736  git commit -m "Added:new programs"
+ 1737  git remote add origin https://github.com/gajanan15/fellowship.git
+ 1738  git push -u origin master
+ 1739  clear
+ 1740  exit
+ 1741  javac Error.java
+ 1742  cd home/admin1/Desktop/vrushabh/Bootcamp/src
+ 1743  home/admin1/Desktop/vrushabh/Bootcamp/src
+ 1744  cd home
+ 1745  ls
+ 1746  cd Desktop/vrushabh/Bootcamp/src
+ 1747  javac Error.java
+ 1748  sudo apt install default-jdk 
+ 1749  javac Error.java
+ 1750  java Error
+ 1751  javac Error.java
+ 1752  System.out.println("Enter value Second name :\n");
+ 1753  ls
+ 1754  cd Desktop
+ 1755  cd vrushabh/Bootcamp/src
+ 1756  javac Error
+ 1757  javac Error.java
+ 1758  java Error
+ 1759  javac Error.java
+ 1760  java Sample
+ 1761  javac Error.java
+ 1762  java Sample
+ 1763  javac Error.java
+ 1764  java Data
+ 1765  javac data.java
+ 1766  javac Data.java
+ 1767  java Error.java
+ 1768  java Error
+ 1769  javac Data.java
+ 1770  java Error
+ 1771  https://github.com/gajanan15/fellowship.git
+ 1772  git int
+ 1773  git init
+ 1774  https://github.com/gajanan15/fellowship.git
+ 1775  git clone/https://github.com/gajanan15/fellowship.git
+ 1776  git --help
+ 1777  ll
+ 1778  git add *
+ 1779  git status
+ 1780  git commit -m "First Commit"
+ 1781  git status
+ 1782  git init
+ 1783  git add README.md
+ 1784  git commit -m "first commit"
+ 1785  git remote add origin https://github.com/gajanan15/fellowship.git
+ 1786  git push -u origin master
+ 1787  git add BalancedParenthesis
+ 1788  git add BalancedParenthesis.java
+ 1789  git push -u origin master
+ 1790  git add BalancedParenthesis
+ 1791  git add BalancedParenthesis.java
+ 1792  git push -u origin master
+ 1793  exit
+ 1794  git init
+ 1795  git add *
+ 1796  ll
+ 1797  git commit -m "first commit"
+ 1798  git https://github.com/gajanan15/fellowship.git
+ 1799  git add https://github.com/gajanan15/fellowship.git
+ 1800  git remote add https://github.com/gajanan15/fellowship.git
+ 1801  git push -u origin master
+ 1802  get init
+ 1803  git init
+ 1804  ll
+ 1805  git add *
+ 1806  ll
+ 1807  git commit -m "first commit"
+ 1808  git remote add origin https://github.com/gajanan15/fellowship.git
+ 1809  git push -u origin master
+ 1810  git init
+ 1811  git update .
+ 1812  git --help
+ 1813  git push .
+ 1814  git push BalancedParenthesis
+ 1815  git init
+ 1816  git remote add origin https://github.com/gajanan15/fellowship.git
+ 1817  git push -u origin master
+ 1818  git init
+ 1819  git add README.md
+ 1820  clear
+ 1821  git init
+ 1822  git add README.md
+ 1823  git commit -m "first commit"
+ 1824  git remote add origin https://github.com/gajanan15/fellowship.git
+ 1825  git push -u Origin master
+ 1826  git push -u origin master
+ 1827  git remote update origin https://github.com/gajanan15/fellowship.git
+ 1828  git remote push origin https://github.com/gajanan15/fellowship.git
+ 1829  git init
+ 1830  git add BalancedParenthesis.java
+ 1831  git init
+ 1832  git add * 
+ 1833  ll
+ 1834  git commit -m "first commit"
+ 1835  git remote add origin https://github.com/gajanan15/fellowship.git
+ 1836  git push -u origin master
+ 1837  Netbeans
+ 1838  eclipse
+ 1839  Eclipse
+ 1840  ls
+ 1841  ds -k
+ 1842  df -k
+ 1843  - git --version
+ 1844  mkdir
+ 1845  ls .
+ 1846  ls ...
+ 1847  ls ..
+ 1848  ls -
+ 1849  ls ~
+ 1850  ls -a
+ 1851  touch test
+ 1852  ls -p
+ 1853  cd
+ 1854  cd/
+
+//Fellowship (ShellScript Day 1) Gajanan Desai
+ 1855  cd desktop/
+ 1856  cd Desktop/
+ 1857  cd GajananDesai/
+ 1858  touch test
+ 1859  ls -p
+ 1860  cp test to test1
+ 1861  touch test1
+ 1862  ls -p
+ 1863  >test.txt
+ 1864  hi how are you
+ 1865  ls -l test
+ 1866  cat > test.txt
+ 1867  cp test.text to test1
+ 1868  touch test1.txt
+ 1869  cp test.text to test1.txt
+ 1870  cp test1.txt to test.txt
+ 1871  cp test test1
+ 1872  cp test.txt test1.txt
+ 1873  cat >test
+ 1874  cp test test1
+ 1875  mv test test1
+ 1876  ls
+ 1877  ls ..
+ 1878  ls
+ 1879  cd..
+ 1880  cd ..
+ 1881  git --version
+ 1882  java -version
+ 1883  cd Desktop/GajananDesai
+ 1884  ls
+ 1885  ls -l
+ 1886  ls -b
+ 1887  ls -f
+ 1888  rm -test
+ 1889  rm test
+ 1890  rm test1
+ 1891  ln -s test/
+ 1892  ln -s test test1/
+ 1893  ls -l ~/QuickLink/
+ 1894  whereis ls
+ 1895  ls/bin
+ 1896  ls/man1
+ 1897  ls /man
+ 1898  ls /man1
+ 1899  man ls
+ 1900  Block size=SIZE
+ 1901  man ls'
+ 1902  man ls
+ 1903  --block size=SIZE
+ 1904  -- block size=SIZE
+ 1905  manls
+ 1906  man ls
+ 1907  --block-size=SIZE
+ 1908  block-size=SIZE
+ 1909  man ls
+ 1910  --block-size=SIZE
+ 1911  man ls
+ 1912  --block-size=SIZE
+ 1913  -- block-size=SIZE
+ 1914  --block -size=SIZE
+ 1915  -l
+ 1916  man ls
+ 1917  man lsman ls
+ 1918  ls -l/etc/passwd
+ 1919  man ls
+ 1920  ls -l /etc/passwd
+ 1921  cat test
+ 1922  cat test1
+ 1923  cat test1.txt
+ 1924  git clone https://github.com/edurekavivekh/linux-content.git
+ 1925  cd linux-content/
+ 1926  cd ..
+ 1927  cd linux-content/
+ 1928  ls
+ 1929  linux_chit_sheet.pdf
+ 1930  cat linux_chit_sheet.pdf
+ 1931  62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c
+ 1932  clear
+ 1933  cd..
+ 1934  cd....
+ 1935  cd ..
+ 1936  ln -s --help
+ 1937  cd linux-content/
+ 1938  cd ..
+ 1939  ln -s ..//linux-content/linux_chit_sheet.pdf ~/QuickLink/
+ 1940  mkdir QuickLink
+ 1941  ln -s ..//linux-content/linux_chit_sheet.pdf ~/QuickLink/
+ 1942  ln -s ../linux-content/linux_chit_sheet.pdf ~/QuickLink/
+ 1943  ln -S ../linux-content/linux_chit_sheet.pdf ~/QuickLink/
+ 1944  ln -s ../linux-content/linux_chit_sheet.pdf ~/QuickLink/
+ 1945  cd ..
+ 1946  mkdir QuickLink
+ 1947  rm -R QuickLink
+ 1948  cd GajananDesai
+ 1949  cd ..
+ 1950  mkdir QuickLink
+ 1951  cd Desktop/GajananDesai
+ 1952  ln -s ../linux-content/linux_chit_sheet.pdf ~/QuickLink/
+ 1953  ln -l ~/QuickLink/
+ 1954  ls -l ~/QuickLink/
+ 1955  cd ..
+ 1956  mkdir GajananDesai
+ 1957  cd GajananDesai
+ 1958  mkdir TerminalCommands
+ 1959  -git --version
+ 1960  - git --version
+ 1961  git --version
+ 1962  cd TerminalCommands
+ 1963  git --version
+ 1964  git clone https://github.com/edurekavivekh/linux-content.git
+ 1965  ls
+ 1966  cd ..
+ 1967  ls
+ 1968  cd TerminalCommands
+ 1969  cd linux-content/
+ 1970  ls
+ 1971  rm -r --help
+ 1972  pwd
+ 1973  ls
+ 1974  ls .
+ 1975  ls ..
+ 1976  ls ~
+ 1977  ls -a
+ 1978  ls -l
+ 1979  mkdir temp
+ 1980  ls
+ 1981  rm -R temp
+ 1982  ls
+ 1983  mkdir -p temp/temp
+ 1984  ls
+ 1985  cd temp
+ 1986  pwd
+ 1987  ls
+ 1988  touch test
+ 1989  ls -p
+ 1990  cp test test1
+ 1991  mv test1 test2
+ 1992  ls -p
+ 1993  rm test
+ 1994  rm test2
+ 1995  touch test
+ 1996  ls -p
+ 1997  rm test
+ 1998  cd ..
+ 1999  ls
+ 2000  ls ..
+ 2001  mkdir -p temp/temp
+ 2002  ls
+ 2003  cd temp
+ 2004  pwd
+ 2005  touch test
+ 2006  ls -p
+ 2007  cp test test1
+ 2008  mv test1 test2
+ 2009  ls -p
+ 2010  ln -s test temp
+ 2011  ls -p temp
+ 2012  ln -s ../linux-content/linux_chit_sheet.pdf ~/QuickLink
+ 2013  cd ..
+ 2014  ln -s ../linux-content/linux_chit_sheet.pdf ~/QuickLink
+ 2015* 
+ 2016  ls /bin
+ 2017  man ls
+ 2018  cd TerminalCommands
+ 2019  ls
+ 2020  pwd
+ 2021  ls
+ 2022  cd temp
+ 2023  pwd
+ 2024  ls
+ 2025  man ls
+ 2026  ls
+ 2027  cd ..
+ 2028  ls
+ 2029  ln -s ../linux-content/linux_chit_sheet.pdf ~/QuickLink
+ 2030  ln -s ../GajananDesai/TerminalCommands/linux-content/linux_chit_sheet.pdf ~/QuickLink
+ 2031  ls -l ~/QuickLink/
+ 2032  whereis ls
+ 2033  ls /bin
+ 2034  cd temp
+ 2035  ls /etc/passwd
+ 2036  ls -l /etc/passwd
+ 2037  cat /etc/passwd
+ 2038  tail -2 /etc/passwd
+ 2039  less /etc/passwd
+ 2040  ls -l..
+ 2041  ls -l ..
+ 2042  ls -l
+ 2043  ls -l ..
+ 2044  ls -la
+ 2045  ls
+ 2046  head /etc/passwd
+ 2047  tail -3 /etc/passwd
+ 2048  tail -2 /etc/passwd
+ 2049  cd ..
+ 2050  find -size +5m
+ 2051  find -size +5M
+ 2052  find -size +10M
+ 2053  find -size +5M
+ 2054  find . -size +5M
+ 2055  find . -size 5M
+ 2056  find . -size 5M -name *.pdf
+ 2057  find . -size +5M -name *.pdf
+ 2058  find . -size +5M -type f
+ 2059  find . -name *.pdf -size +5M
+ 2060  find . -size +5M | grep pdf
+ 2061  find . -size +5M -type f | grep .pdf
+ 2062  find linux-content/ -name *.csv
+ 2063  find linux-content -name *.csv
+ 2064  grep CAPTAIN data.csv
+ 2065  grep -i CAPTAIN linux-content/data.csv
+ 2066  grep -i captain linux-content/data.csv
+ 2067  grep CAPTAIN linux-content/data.csv
+ 2068  grep -ir captain .
+ 2069  cat data.csv
+ 2070  cd linux-content/
+ 2071  cat data.csv
+ 2072  cat GM.csv
+ 2073  grep -ir gm .
+ 2074  cd ..
+ 2075  grep -ir gm .
+ 2076  cat data.csv
+ 2077  cd linux-content/
+ 2078  cat data.csv
+ 2079  cd ..
+ 2080  ls -p
+ 2081  ls -p | grep
+ 2082  ls -p | grep/
+ 2083  ls -p
+ 2084* ls -p | g
+ 2085  ls -p | grep /
+ 2086  ls -p | grep -v /
+ 2087  cd linux-content/
+ 2088  ls -p | grep -v /
+ 2089  ls -p |  -v /
+ 2090  ls -p
+ 2091  cd ..
+ 2092  ls -p linux-content/ | grep -v /
+ 2093  grep -v CAPTAIN
+ 2094  env | grep -i home
+ 2095  env | grep -i user
+ 2096  echo $user
+ 2097  echo $USER
+ 2098  grep -v CAPTAIN linux-content/ data.cvv
+ 2099  grep -v CAPTAIN linux-content/data.cvv
+ 2100  grep -V CAPTAIN linux-content/data.cvv
+ 2101  grep -V CAPTAIN data.cvv
+ 2102  grep -v CAPTAIN linux-content/data.csv
+ 2103  echo $SHELL
+ 2104  bash -version
+ 2105  du -sh linux-content/
+ 2106  du -sm linux-content/
+ 2107  du -sk linux-content/
+ 2108  du -sk linux-content/*
+ 2109  du -sm linux-content/* | sort -n
+ 2110  du -sm linux-content/* | sort -nr
+ 2111  find . type f -empty
+ 2112  du -sm linux-content/* | sort -nR
+ 2113  du -sm linux-content/* | sort -NR
+ 2114  find . type f -empty
+ 2115  du -sm linux-content/* | sort -nr
+ 2116  du -sm linux-content/* | sort -n
+ 2117  cd temp
+ 2118  nano HelloWorld.java
+ 2119  nano -T 3 HelloWorld.java
+ 2120  java HelloWorld.java
+ 2121  nano -T 3 HelloWorld.java
+ 2122  java HelloWorld.java
+ 2123  java --version
+ 2124  nano -T 3 HelloWorld.java
+ 2125  java HelloWorld.java
+ 2126  nano -T 3 HelloWorld.java
+ 2127  java HelloWorld.java
+ 2128  nano -T 3 HelloWorld.java
+ 2129  java HelloWorld.java
+ 2130  nano -T 3 HelloWorld.java
+ 2131  java HelloWorld.java
+ 2132  nano -T 3 HelloWorld.java
+ 2133  java HelloWorld.java
+ 2134  nano -T 3 HelloWorld.java
+ 2135  java HelloWorld.java
+ 2136  history
+ 2137  history>FelloshipDay1
+ 2138  history>FelloshipDay1.txt
