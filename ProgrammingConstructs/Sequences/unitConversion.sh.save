@@ -1,0 +1,14 @@
+#!/bin/bash -x
+#1 inch = 1/12ft
+
+read -p "Enter inch: " inch
+#inch=42
+#feet=$(( $inch/12 ))
+feet=`echo "scale=2; $inch/12" | bc`
+echo $feet
+
+meter=`echo "scale=2; 60*40/3.2808" | bc`
+echo meter
+
+area_in_acres=`echo "scale=2; $meter*25/4047" | bc`
+echo `echo "scale=2; $inch/12" | bc`$area

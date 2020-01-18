@@ -1,0 +1,16 @@
+#!/bin/bash -x
+read -p "Enter day: " d
+read -p "Enter month: " m
+
+$(($m)) -eq 3 && $(($d -ge)) 20 && $(($d)) -le 31a=$(($m)) -eq 3 && $(($d -ge)) 20 && $(($d)) -le 31
+b=$(($m)) -eq 4 && $(($d)) -ge 1 && $(($d)) -le 30
+c=$(($m)) -eq 5 && $(($d)) -ge 1 && $(($d)) -le 31
+d=$(($m)) -eq 6 && $(($d)) -ge 1 && $(($d)) -le 20
+
+#if [ $(($m)) -eq 3 ] && [ $(($d)) -ge 20 ] && [ $(($d)) -le 31 ]
+if(($a == "true" || $b == "true" || $c == "true" || $d == "true" ))
+then 
+	echo "true"
+else
+	echo "false"
+fi
